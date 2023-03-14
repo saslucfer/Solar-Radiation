@@ -68,5 +68,5 @@ will be calculated from sunrise to sunset.
 
 ### Note!
 
->Examples are calculated for longitude and latitude of Tehran and April 15th.
+>Examples are calculated for longitude and latitude of Tehran in April 15th.
 
