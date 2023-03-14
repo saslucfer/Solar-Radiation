@@ -66,3 +66,7 @@ will be calculated from sunrise to sunset.
 
 >6-Annual variation of solar declination in each month
 
+### Note!
+
+>Examples are calculated for longitude and latitude of Tehran and April 15th.
+
